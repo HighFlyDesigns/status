@@ -1,6 +1,6 @@
 [
   {
-    "name": "HighFlyDesigns",
+    "name": "High Fly Designs",
     "url": "https://highflydesigns.com",
     "icon": "https://favicons.githubusercontent.com/highflydesigns.com",
     "slug": "high-fly-designs",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1636,
-    "timeDay": 1636,
-    "timeWeek": 1636,
-    "timeMonth": 1636,
-    "timeYear": 1636,
+    "time": 1476,
+    "timeDay": 1476,
+    "timeWeek": 1476,
+    "timeMonth": 1476,
+    "timeYear": 1476,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1194,
-    "timeDay": 1194,
-    "timeWeek": 1194,
-    "timeMonth": 1194,
-    "timeYear": 1194,
+    "time": 1029,
+    "timeDay": 1029,
+    "timeWeek": 1029,
+    "timeMonth": 1029,
+    "timeYear": 1029,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1811,
-    "timeDay": 1811,
-    "timeWeek": 1811,
-    "timeMonth": 1811,
-    "timeYear": 1811,
+    "time": 1209,
+    "timeDay": 1209,
+    "timeWeek": 1209,
+    "timeMonth": 1209,
+    "timeYear": 1209,
     "dailyMinutesDown": {}
   }
 ]
