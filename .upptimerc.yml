@@ -18,7 +18,7 @@ status-website:
   cname: status.highflydesigns.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://d3qbpau60kz8tq.cloudfront.net/wp-content/themes/hfd/images/logo_footer.png
   name: High Fly Designs
   introTitle: "Additional monitoring will be added in the future, to include more dedicated network monitoring."
   introMessage: "This is just a test."
