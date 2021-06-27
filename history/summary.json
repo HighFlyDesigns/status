@@ -4,7 +4,7 @@
     "url": "https://highflydesigns.com",
     "icon": "https://favicons.githubusercontent.com/highflydesigns.com",
     "slug": "high-fly-designs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1703,
     "timeDay": 2043,
-    "timeWeek": 2466,
+    "timeWeek": 2405,
     "timeMonth": 2048,
     "timeYear": 1703,
     "dailyMinutesDown": {}
