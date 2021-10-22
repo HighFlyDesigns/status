@@ -6,12 +6,13 @@ repo: status # Your GitHub repository name
 sites:
   - name: High Fly Designs
     url: https://highflydesigns.com
+    showAverageResponseTime: false
   - name: Hosting Server
     url: $CWP_URL
+    showAverageResponseTime: false
   - name: VPS Server
     url: $VPS_URL
-  - name: Private Adguard Server
-    url: $ADGUARD_URL
+    showAverageResponseTime: false
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
