@@ -40,17 +40,17 @@
     "url": "$VPS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vps-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2163,
-    "timeDay": 1386,
-    "timeWeek": 1389,
-    "timeMonth": 1433,
-    "timeYear": 2163,
+    "time": 2158,
+    "timeDay": 969,
+    "timeWeek": 1284,
+    "timeMonth": 1405,
+    "timeYear": 2158,
     "dailyMinutesDown": {}
   }
 ]
