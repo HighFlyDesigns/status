@@ -4,19 +4,19 @@
     "url": "https://highflydesigns.com",
     "icon": "https://icons.duckduckgo.com/ip3/highflydesigns.com.ico",
     "slug": "high-fly-designs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1613,
-    "timeDay": 1485,
-    "timeWeek": 3050,
-    "timeMonth": 2330,
-    "timeYear": 1699,
+    "time": 1614,
+    "timeDay": 1515,
+    "timeWeek": 2862,
+    "timeMonth": 2306,
+    "timeYear": 1698,
     "dailyMinutesDown": {
-      "2022-10-19": 1
+      "2022-10-19": 19
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$CWP_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hosting-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1032,
-    "timeDay": 4633,
-    "timeWeek": 3841,
-    "timeMonth": 1654,
-    "timeYear": 1060,
+    "time": 1035,
+    "timeDay": 3552,
+    "timeWeek": 3670,
+    "timeMonth": 1680,
+    "timeYear": 1064,
     "dailyMinutesDown": {
-      "2022-10-19": 1
+      "2022-10-19": 19
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$VPS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 1502,
-    "timeDay": 4480,
-    "timeWeek": 3593,
-    "timeMonth": 1347,
-    "timeYear": 1206,
+    "timeDay": 2654,
+    "timeWeek": 3248,
+    "timeMonth": 1331,
+    "timeYear": 1205,
     "dailyMinutesDown": {
-      "2022-10-19": 12
+      "2022-10-19": 45
     }
   }
 ]
