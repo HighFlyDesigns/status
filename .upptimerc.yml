@@ -4,9 +4,6 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: High Fly Designs
-    url: https://highflydesigns.com
-    showAverageResponseTime: false
   - name: Hosting Server
     url: $CWP_URL
     showAverageResponseTime: false
@@ -21,15 +18,11 @@ status-website:
   # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/HighFlyDesigns/status/master/assets/logo-notext.png
   name: High Fly Designs
-  introTitle: "Additional monitoring will be added in the future, to include more dedicated network monitoring."
+  introTitle: "High Fly Designs is closing in 2023."
   introMessage: 
   navbar:
     - title: Status
       href: /
-    - title: High Fly Designs
-      href: https://highflydesigns.com
-    - title: High Fly Hosting
-      href: https://highflyhosting.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
